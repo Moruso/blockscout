@@ -663,7 +663,7 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:455
 #, elixir-autogen, elixir-format
 msgid "Contract Call"
-msgstr ""
+msgstr "合约调用"
 
 #: lib/block_scout_web/views/transaction_view.ex:452
 #, elixir-autogen, elixir-format
@@ -1298,7 +1298,7 @@ msgstr ""
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:18
 #, elixir-autogen, elixir-format
 msgid "Gas tracker"
-msgstr ""
+msgstr "Gas 追踪"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:240
 #, elixir-autogen, elixir-format
