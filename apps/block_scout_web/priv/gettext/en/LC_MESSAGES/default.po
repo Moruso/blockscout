@@ -453,7 +453,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:38
 #, elixir-autogen, elixir-format
 msgid "Blocks"
-msgstr ""
+msgstr "区块"
 
 #: lib/block_scout_web/templates/layout/app.html.eex:42
 #, elixir-autogen, elixir-format
@@ -686,7 +686,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_contract_name_field.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "Contract Name"
-msgstr ""
+msgstr "合约名称"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:25
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:11
@@ -697,7 +697,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract/index.html.eex:57
 #, elixir-autogen, elixir-format
 msgid "Contract name:"
-msgstr ""
+msgstr "合约名称:"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:100
 #, elixir-autogen, elixir-format
@@ -1429,7 +1429,7 @@ msgstr ""
 #: lib/block_scout_web/templates/internal_transaction/_tile.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Internal Transaction"
-msgstr ""
+msgstr "内部交易"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:28
 #: lib/block_scout_web/templates/address_internal_transaction/index.html.eex:17
@@ -1439,7 +1439,7 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:510
 #, elixir-autogen, elixir-format
 msgid "Internal Transactions"
-msgstr ""
+msgstr "内部交易"
 
 #: lib/block_scout_web/templates/transaction/invalid.html.eex:6
 #, elixir-autogen, elixir-format
@@ -2541,19 +2541,19 @@ msgstr ""
 #: lib/block_scout_web/templates/address/overview.html.eex:55
 #, elixir-autogen, elixir-format
 msgid "Token"
-msgstr ""
+msgstr "通证"
 
 #: lib/block_scout_web/templates/common_components/_token_transfer_type_display_name.html.eex:3
 #: lib/block_scout_web/views/transaction_view.ex:446
 #, elixir-autogen, elixir-format
 msgid "Token Burning"
-msgstr ""
+msgstr "通证销毁"
 
 #: lib/block_scout_web/templates/common_components/_token_transfer_type_display_name.html.eex:7
 #: lib/block_scout_web/views/transaction_view.ex:447
 #, elixir-autogen, elixir-format
 msgid "Token Creation"
-msgstr ""
+msgstr "通证生成"
 
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:10
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:34
@@ -2568,27 +2568,27 @@ msgstr ""
 #: lib/block_scout_web/views/tokens/overview_view.ex:40
 #, elixir-autogen, elixir-format
 msgid "Token Holders"
-msgstr ""
+msgstr "通证持有者"
 
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:38
 #: lib/block_scout_web/templates/tokens/inventory/_token.html.eex:18
 #: lib/block_scout_web/templates/tokens/inventory/_token.html.eex:37
 #, elixir-autogen, elixir-format
 msgid "Token ID"
-msgstr ""
+msgstr "通证 ID"
 
 #: lib/block_scout_web/templates/common_components/_token_transfer_type_display_name.html.eex:5
 #: lib/block_scout_web/views/transaction_view.ex:445
 #, elixir-autogen, elixir-format
 msgid "Token Minting"
-msgstr ""
+msgstr "通证铸造"
 
 #: lib/block_scout_web/templates/common_components/_token_transfer_type_display_name.html.eex:9
 #: lib/block_scout_web/templates/common_components/_token_transfer_type_display_name.html.eex:11
 #: lib/block_scout_web/views/transaction_view.ex:448
 #, elixir-autogen, elixir-format
 msgid "Token Transfer"
-msgstr ""
+msgstr "通证转移"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:13
 #: lib/block_scout_web/templates/address_token_transfer/index.html.eex:19
@@ -2625,7 +2625,7 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:363
 #, elixir-autogen, elixir-format
 msgid "Tokens"
-msgstr ""
+msgstr "通证"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:290
 #, elixir-autogen, elixir-format
@@ -2676,7 +2676,7 @@ msgstr ""
 #: lib/block_scout_web/templates/chain/show.html.eex:130
 #, elixir-autogen, elixir-format
 msgid "Total blocks"
-msgstr ""
+msgstr "总区块数"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:168
 #, elixir-autogen, elixir-format
@@ -2701,7 +2701,7 @@ msgstr ""
 #: lib/block_scout_web/templates/chain/show.html.eex:109
 #, elixir-autogen, elixir-format
 msgid "Total transactions"
-msgstr ""
+msgstr "总交易数"
 
 #: lib/block_scout_web/templates/account/tag_transaction/form.html.eex:11
 #: lib/block_scout_web/templates/account/tag_transaction/index.html.eex:23
@@ -2709,7 +2709,7 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:458
 #, elixir-autogen, elixir-format
 msgid "Transaction"
-msgstr ""
+msgstr "交易"
 
 #: lib/block_scout_web/templates/transaction/_metatags.html.eex:3
 #, elixir-autogen, elixir-format
@@ -2729,7 +2729,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:50
 #, elixir-autogen, elixir-format
 msgid "Transaction Details"
-msgstr ""
+msgstr "交易详情"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:338
 #, elixir-autogen, elixir-format
@@ -2889,7 +2889,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/index.html.eex:12
 #, elixir-autogen, elixir-format
 msgid "Validated Transactions"
-msgstr ""
+msgstr "已验证交易"
 
 #: lib/block_scout_web/templates/address/_validator_metadata_modal.html.eex:30
 #, elixir-autogen, elixir-format
@@ -3082,7 +3082,7 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:371
 #, elixir-autogen, elixir-format
 msgid "Write Contract"
-msgstr ""
+msgstr "合约写操作"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:102
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:48
