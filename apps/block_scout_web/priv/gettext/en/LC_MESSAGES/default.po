@@ -53,7 +53,7 @@ msgstr ""
 msgid "%{count} Transactions"
 msgstr ""
 
-#: lib/block_scout_web/templates/chain/_metatags.html.eex:2
+#: lib/block_scout_web/templates/chain/.eex:2
 #, elixir-autogen, elixir-format
 msgid "%{subnetwork} %{network} Explorer"
 msgstr ""
@@ -277,7 +277,7 @@ msgstr ""
 #: lib/block_scout_web/views/verified_contracts_view.ex:11
 #, elixir-autogen, elixir-format
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:13
 #, elixir-autogen, elixir-format
@@ -322,7 +322,7 @@ msgstr ""
 #: lib/block_scout_web/templates/chain/show.html.eex:100
 #, elixir-autogen, elixir-format
 msgid "Average block time"
-msgstr ""
+msgstr "平均出块时间"
 
 #: lib/block_scout_web/templates/page_not_found/index.html.eex:9
 #: lib/block_scout_web/templates/transaction/not_found.html.eex:30
@@ -471,7 +471,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "Blockscout is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ethereum Networks."
-msgstr ""
+msgstr "华方芯微溯源: 基于POA机制，去代币化，去中心化，资产数据溯源链"
 
 #: lib/block_scout_web/templates/block/_tile.html.eex:64
 #: lib/block_scout_web/templates/block/overview.html.eex:216
@@ -668,7 +668,7 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:452
 #, elixir-autogen, elixir-format
 msgid "Contract Creation"
-msgstr ""
+msgstr "合约创建"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:140
 #: lib/block_scout_web/templates/address_contract/index.html.eex:155
@@ -904,7 +904,7 @@ msgstr ""
 #: lib/block_scout_web/templates/chain/show.html.eex:69
 #, elixir-autogen, elixir-format
 msgid "Daily Transactions"
-msgstr ""
+msgstr "日常交易"
 
 #: lib/block_scout_web/templates/address_logs/_logs.html.eex:101
 #: lib/block_scout_web/templates/log/_data_decoded_view.html.eex:7
@@ -1863,7 +1863,7 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:384
 #, elixir-autogen, elixir-format
 msgid "Pending"
-msgstr ""
+msgstr "等待中"
 
 #: lib/block_scout_web/templates/pending_transaction/index.html.eex:5
 #, elixir-autogen, elixir-format
@@ -2781,7 +2781,7 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:365
 #, elixir-autogen, elixir-format
 msgid "Transactions"
-msgstr ""
+msgstr "交易"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:101
 #, elixir-autogen, elixir-format
@@ -2884,7 +2884,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:55
 #, elixir-autogen, elixir-format
 msgid "Validated"
-msgstr ""
+msgstr "已验证"
 
 #: lib/block_scout_web/templates/transaction/index.html.eex:12
 #, elixir-autogen, elixir-format
@@ -2982,12 +2982,12 @@ msgstr ""
 #: lib/block_scout_web/templates/chain/show.html.eex:152
 #, elixir-autogen, elixir-format
 msgid "View All Blocks"
-msgstr ""
+msgstr "查看所有块"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:212
 #, elixir-autogen, elixir-format
 msgid "View All Transactions"
-msgstr ""
+msgstr "查看所有交易"
 
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:16
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:20
@@ -3048,7 +3048,7 @@ msgstr ""
 #: lib/block_scout_web/templates/chain/show.html.eex:138
 #, elixir-autogen, elixir-format
 msgid "Wallet addresses"
-msgstr ""
+msgstr "地址数"
 
 #: lib/block_scout_web/templates/common_components/_changed_bytecode_warning.html.eex:3
 #, elixir-autogen, elixir-format
@@ -3322,7 +3322,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:29
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Blockchain"
-msgstr ""
+msgstr "区块链"
 
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:72
 #, elixir-autogen, elixir-format, fuzzy
@@ -3398,7 +3398,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:68
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Verified contracts"
-msgstr ""
+msgstr "已确认合约"
 
 #: lib/block_scout_web/templates/verified_contracts/_metatags.html.eex:2
 #, elixir-autogen, elixir-format, fuzzy
@@ -3451,3 +3451,7 @@ msgstr ""
 #, elixir-autogen, elixir-format
 msgid "Is Yul contract"
 msgstr ""
+
+#: lib/block_scout_web/templates/layout/_footer.html.eex:22
+msgid "IPC"
+msgstr "版权所有 ICP备案：京ICP备2022024670号-1"
