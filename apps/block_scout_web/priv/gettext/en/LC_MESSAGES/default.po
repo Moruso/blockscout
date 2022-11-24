@@ -389,14 +389,14 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:158
 #, elixir-autogen, elixir-format
 msgid "Block"
-msgstr ""
+msgstr "块"
 
 #: lib/block_scout_web/templates/block/_link.html.eex:2
 #: lib/block_scout_web/templates/internal_transaction/_tile.html.eex:32
 #: lib/block_scout_web/templates/tokens/transfer/_token_transfer.html.eex:43
 #, elixir-autogen, elixir-format
 msgid "Block #%{number}"
-msgstr ""
+msgstr "块"
 
 #: lib/block_scout_web/templates/block/_metatags.html.eex:3
 #, elixir-autogen, elixir-format
@@ -411,7 +411,7 @@ msgstr ""
 #: lib/block_scout_web/templates/block/overview.html.eex:53
 #, elixir-autogen, elixir-format
 msgid "Block Height"
-msgstr ""
+msgstr "块高度"
 
 #: lib/block_scout_web/templates/layout/app.html.eex:43
 #, elixir-autogen, elixir-format
@@ -453,7 +453,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:38
 #, elixir-autogen, elixir-format
 msgid "Blocks"
-msgstr "区块"
+msgstr "块"
 
 #: lib/block_scout_web/templates/layout/app.html.eex:42
 #, elixir-autogen, elixir-format
@@ -546,13 +546,13 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:367
 #, elixir-autogen, elixir-format
 msgid "Code"
-msgstr ""
+msgstr "源码"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:34
 #: lib/block_scout_web/views/address_view.ex:373
 #, elixir-autogen, elixir-format
 msgid "Coin Balance History"
-msgstr ""
+msgstr "通证变化记录"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:55
 #, elixir-autogen, elixir-format
@@ -995,7 +995,7 @@ msgstr ""
 #: lib/block_scout_web/templates/block/overview.html.eex:159
 #, elixir-autogen, elixir-format
 msgid "Difficulty"
-msgstr ""
+msgstr "难度"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:147
 #, elixir-autogen, elixir-format
@@ -1275,7 +1275,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:373
 #, elixir-autogen, elixir-format
 msgid "Gas Limit"
-msgstr ""
+msgstr "Gas 限额"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:353
 #, elixir-autogen, elixir-format
@@ -1287,7 +1287,7 @@ msgstr ""
 #: lib/block_scout_web/templates/block/overview.html.eex:178
 #, elixir-autogen, elixir-format
 msgid "Gas Used"
-msgstr ""
+msgstr "已用Gas"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:426
 #, elixir-autogen, elixir-format
@@ -1339,7 +1339,7 @@ msgstr ""
 #: lib/block_scout_web/templates/block/overview.html.eex:123
 #, elixir-autogen, elixir-format
 msgid "Hash"
-msgstr ""
+msgstr "哈希"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:454
 #: lib/block_scout_web/templates/transaction/overview.html.eex:458
@@ -1544,7 +1544,7 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:511
 #, elixir-autogen, elixir-format
 msgid "Logs"
-msgstr ""
+msgstr "日志"
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:52
 #, elixir-autogen, elixir-format
@@ -1749,7 +1749,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:436
 #, elixir-autogen, elixir-format
 msgid "Nonce"
-msgstr ""
+msgstr "随机数"
 
 #: lib/block_scout_web/templates/tokens/inventory/_token.html.eex:11
 #, elixir-autogen, elixir-format
@@ -1856,7 +1856,7 @@ msgstr ""
 #: lib/block_scout_web/templates/block/overview.html.eex:139
 #, elixir-autogen, elixir-format
 msgid "Parent Hash"
-msgstr ""
+msgstr "父哈希"
 
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:62
 #: lib/block_scout_web/views/transaction_view.ex:346
@@ -2271,7 +2271,7 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:348
 #, elixir-autogen, elixir-format
 msgid "Success"
-msgstr ""
+msgstr "成功"
 
 #: lib/block_scout_web/templates/transaction/_pending_tile.html.eex:21
 #: lib/block_scout_web/templates/transaction/_tile.html.eex:52
@@ -2508,7 +2508,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:177
 #, elixir-autogen, elixir-format
 msgid "Timestamp"
-msgstr ""
+msgstr "时间戳"
 
 #: lib/block_scout_web/templates/address_internal_transaction/index.html.eex:32
 #: lib/block_scout_web/templates/address_token_transfer/index.html.eex:34
@@ -2666,7 +2666,7 @@ msgstr ""
 #: lib/block_scout_web/templates/block/overview.html.eex:169
 #, elixir-autogen, elixir-format
 msgid "Total Difficulty"
-msgstr ""
+msgstr "总难度"
 
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:83
 #, elixir-autogen, elixir-format
@@ -2676,7 +2676,7 @@ msgstr ""
 #: lib/block_scout_web/templates/chain/show.html.eex:130
 #, elixir-autogen, elixir-format
 msgid "Total blocks"
-msgstr "总区块数"
+msgstr "总块数"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:168
 #, elixir-autogen, elixir-format
