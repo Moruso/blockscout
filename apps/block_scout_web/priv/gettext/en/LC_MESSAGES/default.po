@@ -1997,7 +1997,7 @@ msgstr ""
 #: lib/block_scout_web/views/tokens/overview_view.ex:41
 #, elixir-autogen, elixir-format
 msgid "Read Contract"
-msgstr ""
+msgstr "读合约"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:88
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:41
@@ -3075,14 +3075,14 @@ msgstr ""
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:100
 #, elixir-autogen, elixir-format
 msgid "Write"
-msgstr ""
+msgstr "写"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:95
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:34
 #: lib/block_scout_web/views/address_view.ex:371
 #, elixir-autogen, elixir-format
 msgid "Write Contract"
-msgstr "操作合约"
+msgstr "写合约"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:102
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:48
