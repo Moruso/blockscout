@@ -3082,7 +3082,7 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:371
 #, elixir-autogen, elixir-format
 msgid "Write Contract"
-msgstr "合约写操作"
+msgstr "操作合约"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:102
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:48
