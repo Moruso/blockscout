@@ -552,7 +552,7 @@ msgstr "源码"
 #: lib/block_scout_web/views/address_view.ex:373
 #, elixir-autogen, elixir-format
 msgid "Coin Balance History"
-msgstr "通证变化历史"
+msgstr "通证历史变化"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:55
 #, elixir-autogen, elixir-format
