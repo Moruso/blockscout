@@ -3510,8 +3510,6 @@ msgstr ""
 #, elixir-autogen, elixir-format
 msgid "Your request contained an error, perhaps a mistyped tx/block/address hash. Try again, and check the developer tools console for more info."
 msgstr ""
-<<<<<<< HEAD
-=======
 
 #: lib/block_scout_web/templates/transaction/not_found.html.eex:10
 #, elixir-autogen, elixir-format, fuzzy
@@ -3521,4 +3519,3 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:22
 msgid "IPC"
 msgstr "版权所有 ICP备案：京ICP备2022024670号-1"
->>>>>>> release-0.2
