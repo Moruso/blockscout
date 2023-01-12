@@ -3463,11 +3463,6 @@ msgstr ""
 msgid "2. It could still be in the TX Pool of a different node, waiting to be broadcasted."
 msgstr ""
 
-#: lib/block_scout_web/templates/transaction/not_found.html.eex:10
-#, elixir-autogen, elixir-format, fuzzy
-msgid "3. During times when the network is busy (i.e during ICOs) it can take a while for your transaction to propagate through the network and for us to index it."
-msgstr ""
-
 #: lib/block_scout_web/templates/transaction/not_found.html.eex:11
 #, elixir-autogen, elixir-format, fuzzy
 msgid "4. If it still does not show up after 1 hour, please check with your sender/exchange/wallet/transaction provider for additional information."
